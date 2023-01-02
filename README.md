@@ -9,9 +9,6 @@ With Horiseon, users can learn affective ways to get their brand's name out ther
 Features
 Home feature layout allows for an easy access between different catagories of marketing strategies.
 ---
-Getting Started
-Visit the Horiseon website at https://coderchrisdean.github.io/stat-a-baller/
----
 Deployed URL
 
 https://sethdavis16.github.io/Horiseon-Home-Page/
