@@ -14,11 +14,11 @@ Visit the Horiseon website at https://coderchrisdean.github.io/stat-a-baller/
 ---
 Deployed URL
 
-https://coderchrisdean.github.io/stat-a-baller/
+https://sethdavis16.github.io/Horiseon-Home-Page/
 ---
 Link to Repository
 
-https://github.com/coderchrisdean/stat-a-baller
+https://github.com/SethDavis16/Horiseon-Home-Page
 ---
 Requirements
 
